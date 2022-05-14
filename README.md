@@ -15,4 +15,4 @@ test 방법 현재 디렉토리
 test 방법 현재 디렉토리
 1. make clean
 2. make
-3. make test
+3. make stest
